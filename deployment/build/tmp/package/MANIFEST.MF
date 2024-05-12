@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-Name: ExpensesApp_Module6Completed_10_3_0
+Bundle-SymbolicName: project
+Service-Component: OSGI-INF/component.xml
+
